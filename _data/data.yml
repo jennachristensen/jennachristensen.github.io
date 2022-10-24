@@ -7,40 +7,40 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Zara Weinberg
-    tagline: Cell Biologist
+    name: Jenna Christensen
+    tagline: Cell biologist and biochemist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: weinberz@gmail.com
+    email: jenna.r.christensen@gmail.com
     website:
     linkedin:
-    github: weinberz
-    twitter: weinberz
-    googlescholar: 7CpvunwAAAAJ
+    github: 
+    twitter: Jenna_R_C
+    googlescholar: S2D29bQAAAAJ
 
     interests:
-      - item: Cellular Perception
+      - item: Intracellular transport
         link:
 
-      - item: Synthetic Biology
+      - item: Actin and microtubule cytoskeleton
         link:
 
-      - item: Quantitative Biology
+      - item: Comparative cell biology
         link:
 
-      - item: Computational Image Analysis
+      - item: Biochemical reconstitution / single-molecule TIRF microscopy
         link:
 
 career-profile:
     title: About Me
     summary: |
-      Cell biologist studying how cells perceive their environments and respond with discrete behaviors. Interests include pharmacology, automated quantitative image analysis, teaching, and mentoring.
+      I am using comparative cell biology and biochemical reconstitution to understand fundamental principles underlying intracellular transport. 
 
 research:
     title: Research
     intro: |
-      Our cells have have a limited number of tools to sense their environment,
+      ZARA'S - Our cells have have a limited number of tools to sense their environment,
       but they have to be capable of responding to a practically unlimited number of
       environmental signals. I study how cells decode different signals acting on the
       same machinery to produce distinct behaviors. Currently, I use the convergent
@@ -48,16 +48,13 @@ research:
       G protein-coupled receptors.
 
     projects:
-      - title: Sentinel cells for genetic encoded responses to pathogens
+      - title: Duplication and loss of transport-related genes impact intracellular transport in the fungal kingdom
         graphic: sarsnotch.png
         summary: |
-          Current therapies targeting viral and microbial pathogens rely on systemically administered treatments
-          with profound potential for off-target effects. With our 'sentinel cells', we propose a model that has shown
-          considerable target in treating blood cancers, where engineered cells can sense and respond to pathogenic
-          threats locally and intelligently. Using SARS-CoV-2 as a model pathogen, we demonstrate that sentinel cells can
-          detect infected cells, and respond with customized genetic programs. These sentinel cells have potential as both
-          antipathogen therapies as well as in novel drug and therapeutic development.
-      - title: Endocytic dwell time of the µ opioid receptor regulates signaling in a ligand depdenent manner
+          Via my comparative genomics analysis, I have identified that different fungi have different combinations of transport-related
+          genes encoded in their genomes, suggesting that intracellular transport may be fine-tuned in conjunction with cellular characteristics
+          present in distinct fungal clades.
+      - title: Cargo transport diversity in human cells  via combinatorial assembly of dynein adaptor complexes
         graphic: molpharm-summary.png
         summary: |
           The µ opiod receptor (µOR) is the target of drugs like morphine and heroin. But it is also the target of
@@ -68,24 +65,25 @@ research:
           contribute to the ways in which endogenous opioids have different effects comapred to exogenous ones.
 
 education:
-    - degree: PhD in Biological Sciences
-      university: Carnegie Mellon University, Pittsburgh PA
-      time: 2013 - 2017
-      advisor: Manojkumar A. Puthenveedu
-      details:
+    - degree: PhD in Cell and Molecular Biology
+      university: University of Chicago, Chicago IL
+      time: 2011-2016
+      advisor: David Kovar
+      details: Self-organization of the fission yeast actin cytoskeleton
 
-    - degree: BA in Psychology
-      university: Reed College, Portland OR
+    - degree: BA in Molecular Biology
+      university: William Jewell College, Liberty, MO
       time: 2007 - 2011
-      advisor: Paul J. Currie
+      advisor: Tara Allen
       details:
 
 experiences:
-    - role: Postdoctoral Scholar
-      time: 2020 - Present
-      company: El-Samad Lab, University California San Francisco, San Francisco CA
+    - role: Postdoctoral Fellow
+      time: 2017 - Present
+      company: Reck-Peterson Lab, University of California San Diego, San Diego CA
       details: |
-        - Synthetic biology approaches to sensing and manipulating cell signaling
+        - Intracellular transport diversity in fungal and human cells.
+        - Significant mentorship of 2 PhD and 4 Undergraduate students.
 
     - role: Postdoctoral Scholar
       time: 2017 - 2019
@@ -115,7 +113,7 @@ publications:
     title: Publications
     intro: |
       <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=0000-0001-7176-038X%5Bauid%5D+OR+weinberg+zy%5Bau%5D">Pubmed</a><br/>
-      <a href="https://scholar.google.com/citations?user=7CpvunwAAAAJ">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=S2D29bQAAAAJ">Google Scholar</a>
 
 footer: >
-    Adapted from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Online-CV</a> by me, available <a href="https://github.com/weinberz/weinberz.github.io">here</a>. Updated April 2019
+    Adapted from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Online-CV</a> by me, available <a href="https://github.com/weinberz/weinberz.github.io">here</a>. Updated October 2022.
