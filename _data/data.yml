@@ -35,34 +35,33 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am using comparative cell biology and biochemical reconstitution to understand fundamental principles underlying intracellular transport. 
+      Cytoskeletal biologist using comparative cell biology and biochemical reconstitution to understand fundamental principles underlying intracellular transport. 
 
 research:
     title: Research
     intro: |
-      ZARA'S - Our cells have have a limited number of tools to sense their environment,
-      but they have to be capable of responding to a practically unlimited number of
-      environmental signals. I study how cells decode different signals acting on the
-      same machinery to produce distinct behaviors. Currently, I use the convergent
-      signaling molecule cyclic AMP to study this, but in the past I have also used
-      G protein-coupled receptors.
+      Across the tree of life, cells display remarkable diversity in traits including cellular organization, gene expression, and morphology, 
+      among others. These adaptations are critical to the survival of a cell or organism within its unique environment. To perform fundamental 
+      cellular processes, each cell must be able to transport cargos such as organelles, vesicles, and mRNAs with spatial and temporal precision. 
+      Despite understanding many of the players involved in intracellular transport, little is known about why some organisms use one mode of transport 
+      over another. My research vision is to determine the fundamental principles behind how and when cells use different modes of cargo transport. 
+      By studying organisms across the tree of life, we can both parse the underlying themes and potentially unearth new modes of intracellular transport. 
 
     projects:
       - title: Duplication and loss of transport-related genes impact intracellular transport in the fungal kingdom
         graphic: sarsnotch.png
         summary: |
-          Via my comparative genomics analysis, I have identified that different fungi have different combinations of transport-related
-          genes encoded in their genomes, suggesting that intracellular transport may be fine-tuned in conjunction with cellular characteristics
-          present in distinct fungal clades.
-      - title: Cargo transport diversity in human cells  via combinatorial assembly of dynein adaptor complexes
+          The dikaryotic fungi are an ideal group of organisms in which to study intracellular transport diversification as they exhibit a wide range
+          of phenotypic diversity, include species known to use actin- and/or microtubule-dependent transport, and encompass many species that are 
+          already genetically tractable. I am currently using comparative genomics across the dikaryotic fungi to identify the 
+          My research has found that different fungi have different combinations 
+          of transport-related genes encoded in their genomes, suggesting that intracellular transport may be fine-tuned in conjunction with cellular 
+          characteristics present in distinct fungal clades. I am now using comparative cell biology to 
+      - title: Using insights from fungi to study human cells - gene family expansion in human cells affects transport processes
         graphic: molpharm-summary.png
         summary: |
           The µ opiod receptor (µOR) is the target of drugs like morphine and heroin. But it is also the target of
-          chemicals our bodies produce called endorphins. It is poorly understood why morphine is so addictive,
-          but endorphins are not. One difference between how these drugs act on µOR is that morphine causes the receptor
-          to be taken up into the cell very quickly after it interacts with the drug. I discovered that the slower this uptake
-          occurs, the more signaling is produced from the MAPK signaling pathway. This signaling difference might
-          contribute to the ways in which endogenous opioids have different effects comapred to exogenous ones.
+          chemica........
 
 education:
     - degree: PhD in Cell and Molecular Biology
@@ -82,38 +81,25 @@ experiences:
       time: 2017 - Present
       company: Reck-Peterson Lab, University of California San Diego, San Diego CA
       details: |
-        - Intracellular transport diversity in fungal and human cells.
+        - Identified novel regulators of hitchhiking, a non-canonical form of transport in <i>Aspergillus nidulans</i> (read more <a href="https://www.molbiolcell.org/doi/full/10.1091/mbc.E20-08-0559">here</a>)
+        - Discovered that combinatorial assembly of 'FHF' dynein adaptor complexes link dynein to different cargos in human cells (read more <a href="https://elifesciences.org/articles/74538">here</a>)
+        - Used comparative genomics analysis to discover novel modes of nuclear transport in <i>Aspergillus nidulans</i> (current unpublished work).
+        - Performed key cell biology experiments and intellectual contribution to build mathematical models defining parameters that affect cargo transport (read more <a href="https://www.sciencedirect.com/science/article/pii/S0006349520300795">here</a> and <a href="https://www.sciencedirect.com/science/article/pii/S0006349521008791">here</a>.)
         - Significant mentorship of 2 PhD and 4 Undergraduate students.
 
-    - role: Postdoctoral Scholar
-      time: 2017 - 2019
-      company: Puthenveedu Lab, University of Michigan, Ann Arbor MI
-      details: |
-        - Developed technique for measuring GPCR exocytosis using live cell microscopy, and automated image analysis with machine learning deployed in MATLAB and Python.
-        - Collected live cell imaging data for 2 collaborators, and trained a collaborator to perform microscopy experiments
-        - Significant mentorship of 5 PhD, 1 Masters, and 3 Undergraduate students
-
     - role: PhD Candidate
-      time: 2013 - 2017
-      company: Puthenveedu Lab, Carnegie Mellon University, Pittsburgh PA
+      time: 2011 - 2016
+      company: Kovar Lab, University of Chicago, Chicago IL
       details: |
-        - Demonstrated that opioid receptors signal from endocytic domains after activation using total internal fluorescence microscopy, fluorescent biosensors, automated image analysis in ImageJ and MATLAB, and immunoblotting
-        - Discovered distinct protein mediators of adrenergic receptor endocytosis and signaling
-
-    - role: IT Resident
-      time: 2011 - 2013
-      company: Google Inc., Mountain View CA
-      details: |
-        - Tech support generalist – Hardware, Networking, macOS, Windows, and Linux
-        - Provided excellent customer service as recognized by peer bonus system 40 times
-        - Operations rotation with corporate infrastructure SRE – automated server provisioning, maintenance, and monitoring using shell scripting, Python, and Ganeti
-        - Communicated technical issues throughout the support organization through drafting and editing of regular newsletter and technical explainers
-
+        - Developed complex in vitro reconstitution assays of actin cytoskeleton networks in conjunction with four-color single molecule TIRF microscopy (read more <a href="https://elifesciences.org/articles/23152">here</a>).
+        - Discovered that actin binding proteins compete by different mechanisms that are critical for proper sorting in fission yeast (read more <a href="https://elifesciences.org/articles/23152">here</a> and <a href="https://elifesciences.org/articles/23152">here</a>.)
+        - Found that actin binding proteins formin and profilin are tailored to generate actin assembly at the correct time and place in fission yeast and <i>Chlamydomonas reinhardtii</i> (read more <a href="https://www.molbiolcell.org/doi/full/10.1091/mbc.E13-05-0281">here</a> and <a href="https://www.molbiolcell.org/doi/10.1091/mbc.E19-08-0463">here</a>.)
+        
 publications:
     title: Publications
     intro: |
-      <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=0000-0001-7176-038X%5Bauid%5D+OR+weinberg+zy%5Bau%5D">Pubmed</a><br/>
+      <a href="https://www.ncbi.nlm.nih.gov/myncbi/1nws1U7Kx_z5A/bibliography/public/">Pubmed</a><br/>
       <a href="https://scholar.google.com/citations?user=S2D29bQAAAAJ">Google Scholar</a>
 
 footer: >
-    Adapted from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Online-CV</a> by me, available <a href="https://github.com/weinberz/weinberz.github.io">here</a>. Updated October 2022.
+    Adapted from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Online-CV</a> and <a href="https://github.com/weinberz/weinberz.github.io">Witch Lab</a>. Updated October 2022.
