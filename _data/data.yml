@@ -35,7 +35,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Cytoskeletal biologist using comparative cell biology and biochemical reconstitution to understand fundamental principles underlying intracellular transport. 
+      Cytoskeletal biologist using comparative cell biology and biochemical reconstitution to understand fundamental principles and novel modes of intracellular transport. 
 
 research:
     title: Research
@@ -49,19 +49,24 @@ research:
 
     projects:
       - title: Duplication and loss of transport-related genes impact intracellular transport in the fungal kingdom
-        graphic: sarsnotch.png
+        graphic: fungiandhumans.png
         summary: |
           The dikaryotic fungi are an ideal group of organisms in which to study intracellular transport diversification as they exhibit a wide range
           of phenotypic diversity, include species known to use actin- and/or microtubule-dependent transport, and encompass many species that are 
-          already genetically tractable. I am currently using comparative genomics across the dikaryotic fungi to identify the 
-          My research has found that different fungi have different combinations 
-          of transport-related genes encoded in their genomes, suggesting that intracellular transport may be fine-tuned in conjunction with cellular 
-          characteristics present in distinct fungal clades. I am now using comparative cell biology to 
+          already genetically tractable. I use comparative genomics to identify transport-related genes encoded in the genomes of different dikaryotic fungi
+          in order to generate hypotheses concerning intracellular transport adaptation in different contexts.
+          My research has found that different fungi have different combinations of transport-related genes encoded in their genomes, suggesting that intracellular transport may be fine-tuned in conjunction with cellular 
+          characteristics present in distinct fungal clades. I am now using comparative cell biology in different fungal species to directly test these hypotheses.
       - title: Using insights from fungi to study human cells - gene family expansion in human cells affects transport processes
-        graphic: molpharm-summary.png
+        graphic: FHF.png
         summary: |
-          The µ opiod receptor (µOR) is the target of drugs like morphine and heroin. But it is also the target of
-          chemica........
+          Unlike filamentous fungi, in which cellular cargos are often distributed consistently throughout a hyphal network, cargo transport in human cells 
+          must be multi-dimensional, comprehensive, and responsive. Correspondingly, human cells have evolved a large series of functionally distinct motors 
+          and adaptors. As one example, the filamentous fungus <i>Aspergillus nidulans</i> has one each of the FTS, Hook, and FHIP proteins, which collectively 
+          form the ‘FHF’ complex and link dynein to early endosomes. In comparison, human cells have three Hook, four FHIP proteins, and one FTS. I <a href="https://elifesciences.org/articles/74538">discovered</a>) 
+          that gene family expansion and functional divergence of FHF complex proteins allow dynein to bind multiple cargos in human cells. Many transport-related
+          gene families have similarly expanded in humans. My future work uses fungi as models to investigate general roles and mechanisms of transport-related proteins,
+          and then uses cellular proteomics and cell biology to discover how those processes have diverged or expanded in human cells.
 
 education:
     - degree: PhD in Cell and Molecular Biology
