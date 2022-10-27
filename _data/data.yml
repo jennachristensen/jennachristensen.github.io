@@ -67,12 +67,6 @@ research:
           that gene family expansion and functional divergence of FHF complex proteins allow dynein to bind multiple cargos in human cells. Many transport-related
           gene families have similarly expanded in humans. My future work uses fungi as models to investigate general roles and mechanisms of transport-related proteins,
           and then uses cellular proteomics and cell biology to discover how those processes have diverged or expanded in human cells.
-       - title: Reconstitution of transport processes
-        graphic: actin.gif
-        summary: |
-          Factors such as cytoskeletal organization, motor composition, and post-translational modifications can affect intracellular transport on the molecular level.
-          In vitro reconstitution of the actin- and microtubule-driven transport in conjunction with single molecule TIRF microscopy can elucidate the roles that these factors and others play
-          in the transport of cargos in different organisms. 
 
 education:
     - degree: PhD in Cell and Molecular Biology
